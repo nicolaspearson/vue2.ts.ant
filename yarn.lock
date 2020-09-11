@@ -2206,7 +2206,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/jest@npm:26.x":
+"@types/jest@npm:26.x, @types/jest@npm:^26.0.13":
   version: 26.0.13
   resolution: "@types/jest@npm:26.0.13"
   dependencies:
@@ -6744,7 +6744,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-plugin-prettier@npm:^3.1.3":
+"eslint-plugin-prettier@npm:^3.1.4":
   version: 3.1.4
   resolution: "eslint-plugin-prettier@npm:3.1.4"
   dependencies:
@@ -16833,7 +16833,7 @@ typescript@^4.0.2:
     "@starptech/prettyhtml": ^0.10.0
     "@types/babel__core": ^7
     "@types/babel__preset-env": ^7
-    "@types/jest": ^24.0.19
+    "@types/jest": ^26.0.13
     "@types/node": ^14.10.0
     "@types/webpack-env": ^1.15.2
     "@typescript-eslint/eslint-plugin": ^2.33.0
@@ -16853,7 +16853,7 @@ typescript@^4.0.2:
     babel-jest: ^26.3.0
     core-js: ^3.6.5
     eslint: ^6.7.2
-    eslint-plugin-prettier: ^3.1.3
+    eslint-plugin-prettier: ^3.1.4
     eslint-plugin-vue: ^6.2.2
     husky: ^4.3.0
     jest: ^26.4.2
@@ -16866,7 +16866,7 @@ typescript@^4.0.2:
     sass-loader: ^8.0.2
     tslib: ^2.0.1
     typescript: ^4.0.2
-    vue: ^2.6.11
+    vue: ^2.6.12
     vue-class-component: ^7.2.3
     vue-jest: ^4.0.0-0
     vue-property-decorator: ^8.4.2
@@ -16876,7 +16876,7 @@ typescript@^4.0.2:
   languageName: unknown
   linkType: soft
 
-"vue@npm:*, vue@npm:^2.6.11":
+"vue@npm:*, vue@npm:^2.6.12":
   version: 2.6.12
   resolution: "vue@npm:2.6.12"
   checksum: 92ed547e55a4b27a2a45aa9ab7ff5999f891dc9754562a37226dd190b323d9f99daec892dd8bd39786e404e6e065d808e165b1a0c127ce8d45fd1bde79ec7312
